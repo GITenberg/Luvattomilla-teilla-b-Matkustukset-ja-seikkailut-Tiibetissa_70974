@@ -1,0 +1,39 @@
+_repo: Luvattomilla-teilla-b-Matkustukset-ja-seikkailut-Tiibetissa_70974
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jaakkola, K.
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '6826'
+    url: http://www.gutenberg.org/2009/agents/6826
+    wikipedia: https://fi.wikipedia.org/wiki/K._Jaakkola
+creator:
+  author:
+    agent_name: Landor, Arnold Henry Savage
+    aliases:
+    - Landor, A. Henry Savage (Arnold Henry Savage)
+    - Landor, A. H. Savage
+    - Landor, Henry Savage
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '4851'
+    url: http://www.gutenberg.org/2009/agents/4851
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
+description: ''
+gutenberg_issued: '2023-06-14'
+identifiers:
+  gutenberg: '70974'
+language: fi
+pgterms:marc905: 20210806041159landor
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bSatakunnan Kirjakauppa, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Luvattomilla teillä : $b Matkustukset ja seikkailut Tiibetissä'
+url: http://www.gutenberg.org/ebooks/70974
