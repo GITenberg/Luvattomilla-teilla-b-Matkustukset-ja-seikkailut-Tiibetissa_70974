@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '6826'
     url: http://www.gutenberg.org/2009/agents/6826
     wikipedia: https://fi.wikipedia.org/wiki/K._Jaakkola
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Landor, Arnold Henry Savage
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4851
     wikipedia: https://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70974#Luvattomilla-teilla-b-Matkustukset-ja-seikkailut-Tiibetissa
 gutenberg_issued: '2023-06-14'
 identifiers:
   gutenberg: '70974'
